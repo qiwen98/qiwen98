@@ -8,5 +8,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ganqiwen@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a stoicism creator in visual and sound fx
+- ⚡ Fun fact: stoicism, I am a creator in visual and sound fx
 
