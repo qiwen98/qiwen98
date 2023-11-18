@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently a graduated Master's Degree Student, GLSL beginner
+- 🔭 I’m currently a graduated Master's Degree Student, R&D Engineer at NetVue
 - 🌱 I’m currently learning next generation 3D related research such as Computer Vision/Graphic, AR/VR, Digital Imaging
 - 👯 I’m looking to collaborate on any Rendering, Perception, Camera, Display experts
 - 🤔 I’m looking for help with everyone
